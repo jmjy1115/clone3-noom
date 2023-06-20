@@ -190,6 +190,6 @@ dist
 .history
 .ionide
 
-# Setting
+# Hiding specific configurations or environment variables
 babel.config.json
 nodemon.json
