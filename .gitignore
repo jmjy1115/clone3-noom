@@ -189,3 +189,7 @@ dist
 # Ignore all local history of files
 .history
 .ionide
+
+# Setting
+babel.config.json
+nodemon.json
